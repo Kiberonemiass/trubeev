@@ -1,0 +1,95 @@
+body{
+    background:rgb(108, 108, 228);
+    margin:#EEEEEE;
+    font-family:Arial;
+}
+
+header{
+    background:rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
+    text-align:center;
+    padding:20px;
+}
+
+main{
+    background:rgb(255, 255, 255);
+    margin-top:20px;
+    margin-left:auto;
+    margin-right:auto;
+    padding:20px;
+    border-radius:10px;
+    width:80%;
+}
+#class{
+    width: 600px;
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+nav a{
+    color:aliceblue;
+    text-align:center;
+    padding:20px; 
+    text-decoration:none;
+    font-size:18px;
+}
+nav a:hover{
+    background-color:blue;
+    color:black;
+}
+main h1 {
+    text-align:center;
+}
+main h2 {
+    text-align:center;
+}
+main h3 {
+    text-align:center;
+}
+main h4 {
+    text-align:center;
+}
+main h5 {
+    text-align:center;
+}
+main h6 {
+    text-align:center;
+}
+main img {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius:4px;
+    max-width:90%;
+}
+main li{
+    line-height:1.5;
+}
+main p{
+    line-height:1.5;
+}
+main iframe {
+    width: 100%;
+}
+.vio {
+    width:1200px;
+    max-width:90%;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+}
+#au {
+    transform:rotate(180deg) scaleX(-1);
+}
+.trans{
+    transform:rotate(180deg) scaleX(-1);
+}
+#first{
+    color:#0096ff;
+}
+#id{width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
